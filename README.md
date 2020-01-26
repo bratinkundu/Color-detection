@@ -10,4 +10,4 @@ Project is based on detecting colors in an image. Technology used are Python, Pa
 6. Press ESC to exit.
 
 ## Output
-![Output](output.jpg) 
+![Output](output.JPG) 
